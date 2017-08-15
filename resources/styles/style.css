@@ -1,0 +1,21 @@
+h1, h2, h3, ul, li, p {
+    font-family: Helvetica, sans-serif;
+    text-align: center;
+}
+
+#bigbox {
+  background-image: url("../images/the-flatiron-building.png");
+}
+
+
+ul {
+  list-style-type: none;
+}
+
+#info h2 {
+  background-image: url("../images/the-flatiron-building.png");
+}
+
+.footer {
+  text-align:left;
+}
